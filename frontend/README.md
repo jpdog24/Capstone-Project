@@ -1,5 +1,5 @@
 # Description 
-This is a Task Manager app, using a RESTFUL API you can use this app to plan your day on what you need to do through out your day and helps you organize on what you need to do. You can also complete the task when you are done and have different tabs for completed and non completed tasks
+This is a Task Manager app, using a RESTFUL API you can use this app to plan your day on what you need to do through out your day and helps you organize on what you need to do. You can also complete the task when you are done and have different tabs for completed and non completed tasks and you can also delete tasks when you are done.
 
 
 

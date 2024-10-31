@@ -10,6 +10,7 @@ This is a Task Manager app, using a RESTFUL API you can use this app to plan you
  * Javascript,
  * React,
  * Tailwinds,
+ * Redux
  # Backend
  * Node,
  * Axios,
